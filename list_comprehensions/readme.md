@@ -1,6 +1,6 @@
 # List Comprehensions
 
-List comprehension (or "a list comprehension") is an easy way to create a new list from an existing list by applying a specific transformation to each item. Instead of writing an empty list and a `for` loop, you can do it all in one line.
+A list comprehension is an easy way to create a new list from an existing list by applying a specific transformation to each item. Instead of writing an empty list and a `for` loop, you can do it all in one line.
 
 Here's the long way to create a new list of doubled numbers:
 
