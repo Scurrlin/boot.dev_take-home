@@ -35,7 +35,7 @@ for i, item in enumerate(items):
 # 2 item3
 ```
 
-Both of the two previous loops print the same tuples (index, value), but the second version is easier to read and less prone to errors.
+The two previous loops print the same index/value pairs, but the second version is easier to read and less prone to errors.
 
 ## Counting From Any Number
 
