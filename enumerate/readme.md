@@ -24,7 +24,7 @@ for i in range(0, len(items)):
 
 Surely there must be a simpler way to do this, right? Of course there is!
 
-The `enumerate()` function gives you a clean, memory efficient way to get both the index *and* the value of each item by using a counter during the loop to keep track of the indices.
+The `enumerate()` function gives you a clean, memory efficient way to get both the index *and* value of each item by using a counter during the loop to keep track of the indices.
 
 ```python
 for i, item in enumerate(items):
